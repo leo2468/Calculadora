@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   font-family: arial Arial, Helvetica, sans-serif ;
+   background-color: rgb(35, 7, 36);
+}
+h1{
+    padding-top: 12px;
+    color: white;
+    font-size: 230% ;
+}
+#resultado{
+    background-color: white;
+    color: black;
+    width: 367px;
+    height: 50px;
+    font-size: 25px;
+    margin: auto;
+    text-align:right;
+    padding-top: 10px;
+}
+.container{
+    background-color: rgb(26, 146, 46);
+   width: 390px;
+   height: 530px;
+   text-align: center;
+   margin: auto;
+   margin-top:55px ;
+   border-radius: 10px;
+}
+table{
+    margin: auto;
+}
+.botao{
+    font-size: large;
+    width: 90px;
+    height: 80px;
+} 
+.botao:hover{
+    background-color: aqua;
+}
